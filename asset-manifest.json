@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cristiano-araujo/projeto-barbearia/static/css/main.4325db1c.css",
+    "main.js": "/cristiano-araujo/projeto-barbearia/static/js/main.75bf427c.js",
+    "static/js/787.13710516.chunk.js": "/cristiano-araujo/projeto-barbearia/static/js/787.13710516.chunk.js",
+    "static/media/banner-barbearia.jpg": "/cristiano-araujo/projeto-barbearia/static/media/banner-barbearia.6e5abe93cc1c1bbbc2d0.jpg",
+    "index.html": "/cristiano-araujo/projeto-barbearia/index.html",
+    "main.4325db1c.css.map": "/cristiano-araujo/projeto-barbearia/static/css/main.4325db1c.css.map",
+    "main.75bf427c.js.map": "/cristiano-araujo/projeto-barbearia/static/js/main.75bf427c.js.map",
+    "787.13710516.chunk.js.map": "/cristiano-araujo/projeto-barbearia/static/js/787.13710516.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4325db1c.css",
+    "static/js/main.75bf427c.js"
+  ]
+}
